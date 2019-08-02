@@ -41,7 +41,7 @@ h1,
   margin: 4.5% 15px;
 }
 .form-control {
-  width: 25%;
+  width: 35%;
 }
 .three {
   background-color: rgb(56, 175, 244);
@@ -64,4 +64,10 @@ h1,
 .days-for-sm {
   margin: 3% 0;
   border-bottom: 1px solid;
+}
+.days-for-sm p {
+  max-width: 75%;
+}
+.days-container .row {
+  justify-content: space-around;
 }
